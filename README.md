@@ -1,3 +1,3 @@
 README.md
 
-![medinify structure](https://imgur.com/a/KKb7OJJ)
+![medinify structure](i.imgur.com/ILXcy79.png)
